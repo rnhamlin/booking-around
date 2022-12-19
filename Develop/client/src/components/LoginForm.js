@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 import { Form, Button, Alert } from 'react-bootstrap';
 
+// Replace API loginUser with LOGIN_USER functionality.
 import { loginUser } from '../utils/API';
 import Auth from '../utils/auth';
 
