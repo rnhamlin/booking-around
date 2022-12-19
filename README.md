@@ -19,8 +19,8 @@ This repository contains the Google Books API, refactored to be a GraphQL API. U
 
 ## Screenshot
 
-tba
+![Screenshot](booking-pic.png)
 
 ## Links
 
-Deployed at: tba
+Deployed at: https://git.heroku.com/booking-around.git
